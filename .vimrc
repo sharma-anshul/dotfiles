@@ -24,3 +24,5 @@ set expandtab
 set ruler
 syntax on
 set hlsearch
+
+set tags=./tags;/
